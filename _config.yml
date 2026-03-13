@@ -3,9 +3,9 @@
 
 title: GitHub Pages 検証ブログ
 description: 調査内容を実際に GitHub Pages で検証する
-# プロジェクトサイト (username.github.io/repo/) の場合はリポジトリ名を指定
-baseurl: "/github-pages-verify"
-url: "https://azul915.github.io"
+# カスタムドメイン (hello-ghpages.azul915.com) の場合は baseurl を空に
+baseurl: ""
+url: "https://hello-ghpages.azul915.com"
 
 # ビルド設定
 markdown: kramdown
