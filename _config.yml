@@ -1,0 +1,20 @@
+# GitHub Pages 検証ブログ
+# 調査→実践: github-pages-static-site.md の内容を検証する
+
+title: GitHub Pages 検証ブログ
+description: 調査内容を実際に GitHub Pages で検証する
+baseurl: ""  # ユーザー/組織サイトの場合は ""
+url: ""      # カスタムドメイン設定後に変更
+
+# ビルド設定
+markdown: kramdown
+highlighter: rouge
+
+# プラグインは github-pages gem が自動管理
+
+# 除外
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
