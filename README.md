@@ -2,6 +2,9 @@
 
 **調査→実践**: 静的サイトホスティングの調査内容を、実際に GitHub Pages で構築して検証するブログです。
 
+- **公開サイト**: https://azul915.github.io/github-pages-verify/
+- **リポジトリ**: https://github.com/azul915/github-pages-verify
+
 ## 検証項目
 
 - [ ] 調査内容と実運用の差
